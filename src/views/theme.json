@@ -1,0 +1,7 @@
+{
+    "name": "Business",
+    "package_name": "ahmadsyamim/business-theme",
+    "extends": "",
+    "asset-path": "Business",
+    "views-path": "Business"
+}
